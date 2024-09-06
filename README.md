@@ -1,6 +1,10 @@
 <h1 align="center">🌍 IT Valley School</h1>
 
 <p align="center">
+  <img src="https://github.com/ITValley-School/ITValley-School/blob/main/Carlos_Viana.png" alt="IT Valley School Logo" width="200"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Innovation-AI%20Lab-blue" alt="Innovation Badge">
   <img src="https://img.shields.io/badge/Headquarters-Canada-important" alt="HQ Badge">
 </p>
@@ -55,6 +59,8 @@
 <p>
   Visit us at <a href="https://www.itvalleyschool.com" target="_blank">itvalleyschool.com</a> to learn more about our programs, projects, and the future of AI technology.
 </p>
+
+
 
 <h2>📫 Contact Us</h2>
 <p>
